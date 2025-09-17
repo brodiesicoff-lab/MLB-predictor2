@@ -1,0 +1,18 @@
+mlb-predictor/
+│
+├── backend/
+│   app.py
+│   ingest.py
+│   model.py
+│   train_model.py
+│   features.py
+│   requirements.txt
+│   data/games.csv
+│
+├── frontend/
+│   package.json
+│   src/App.js
+│   src/api.js
+│   src/components/GameCard.js
+│
+└── README.md
